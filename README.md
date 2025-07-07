@@ -15,7 +15,10 @@ I'm a Virtual Assistant & Creative Publisher. I help entrepreneurs, authors, and
 
 ## 🛠 Tools I Use
 
-Python • Canva • Google Suite • Airtable • Markdown
+- Canva (Design & Publishing)
+- Amazon KDP (Book Publishing)
+- Google Workspace (Docs, Sheets, Drive)
+- MailerLite (Email Marketing)
 
 ---
 
@@ -23,4 +26,4 @@ Python • Canva • Google Suite • Airtable • Markdown
 
 🌐 [Smith’s Freelance Services](https://sites.google.com/view/smiths-freelance-services)  
 🎯 [Hire me on Fiverr](https://www.fiverr.com/s/m52Xb2Z)  
-📧 contact@yourdomain.com
+📧 smithsfreelanceservices@gmail.com
